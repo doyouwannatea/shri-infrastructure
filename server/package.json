@@ -1,0 +1,28 @@
+{
+  "name": "shri-infrastructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "nodemon server.js",
+    "lint": "eslint --fix --ext .js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doyouwannatea/shri-infrastructure.git"
+  },
+  "author": "alexandr.bulgatov13@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doyouwannatea/shri-infrastructure/issues"
+  },
+  "homepage": "https://github.com/doyouwannatea/shri-infrastructure#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "nodemon": "^2.0.12"
+  }
+}
