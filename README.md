@@ -23,6 +23,23 @@
 
 Не забудьте ключ в конфиге вставить - `/server/server-conf.json`
 
+## Запуск
+
+- `git clone https://github.com/doyouwannatea/shri-infrastructure`
+- `cd ./shri-infrastructure`
+
+### Server
+
+- `cd ./server`
+- `npm i`
+- `npm start`
+
+### Agent
+
+- `cd ./agent`
+- `npm i`
+- `npm start`
+
 ## Node version
 
 v14.17.1
