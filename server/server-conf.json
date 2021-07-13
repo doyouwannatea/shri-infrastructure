@@ -1,0 +1,9 @@
+{
+    "port": 8080,
+    "apiBaseUrl": "https://shri.yandex/hw/api/",
+    "apiToken": "",
+    "builds": {
+        "timeout": 5000,
+        "quantity": 5
+    }
+}
